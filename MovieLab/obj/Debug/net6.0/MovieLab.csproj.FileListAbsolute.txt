@@ -1,0 +1,16 @@
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\bin\Debug\net6.0\MovieLab.exe
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\bin\Debug\net6.0\MovieLab.deps.json
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\bin\Debug\net6.0\MovieLab.runtimeconfig.json
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\bin\Debug\net6.0\MovieLab.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\bin\Debug\net6.0\ref\MovieLab.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\bin\Debug\net6.0\MovieLab.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.GlobalUsings.g.cs
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.csproj.AssemblyReference.cache
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.AssemblyInfoInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.AssemblyInfo.cs
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.csproj.CoreCompileInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\ref\MovieLab.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek3\MovieLab\obj\Debug\net6.0\MovieLab.genruntimeconfig.cache
