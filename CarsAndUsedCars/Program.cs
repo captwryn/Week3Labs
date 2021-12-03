@@ -82,7 +82,7 @@ namespace CarsAndUsedCars
 
             do
             {
-                Console.WriteLine("Please select an option for finding your new car today: (1) Browse by Make (2) Browse by Year (3) Browse by Price");
+                Console.WriteLine("Please select an option for finding your new car today: (0) Purchase a car (1) Browse by Make (2) Browse by Year (3) Browse by Price");
                 int option = int.Parse(Console.ReadLine());
 
                 if (option == 1)
@@ -165,7 +165,7 @@ namespace CarsAndUsedCars
                 //}
                 if (option == 0)
                 {
-                    Console.WriteLine("Welcome employee, which car would you like to remove?:");
+                    Console.WriteLine("Which car would you like to buy?:");
                     bool emode = true;
                     do
                     {
@@ -178,7 +178,7 @@ namespace CarsAndUsedCars
                             i++;
                         }
                         option = int.Parse(Console.ReadLine());
-                        Console.WriteLine("  --- Confirm remove: (1) Yes ---");
+                        Console.WriteLine("  --- Confirm buy: (1) Yes ---");
                         int ays = -1;
                         Console.WriteLine(Car.Cars[option]);
                         ays = int.Parse(Console.ReadLine());
@@ -188,26 +188,30 @@ namespace CarsAndUsedCars
 
                         }
                         
-                        Console.WriteLine("Would you like to remove another car? (1) Yes (2) No");
+                        Console.WriteLine("Would you like to buy another car? (1) Yes (2) No");
                         option = int.Parse(Console.ReadLine());
                         if (option == 1)
                         {
                             Console.Clear();
-                            Console.WriteLine("Which car would you like to remove?:");
+                            Console.WriteLine("Which car would you like to buy?:");
                         }
                         if (option == 2)
                         {
                             Console.Clear();
-                            Console.WriteLine("Leaving Employee Mode");
+                            Console.WriteLine("Leaving purchase Mode");
                             emode = false;
                         }
                     }
                     while (emode);
                 }
 
-
+                option = -1;
                 Console.WriteLine("Would you like to browse are cars more? (1) Yes (anything else) Leave Store.");
                 option = int.Parse(Console.ReadLine());
+                if (option == 1)
+                {
+                    Console.Clear();
+                }
                 if (option != 1)
                 {
                     Console.WriteLine("Thank you for shopping with us today.");

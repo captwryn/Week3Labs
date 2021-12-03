@@ -10,7 +10,22 @@
       "ProjectGuid": "f43a4f26-1e17-4036-bbe1-b7f0225e1bba",
       "DisplayName": "MovieLab",
       "ColorIndex": 1
+    },
+    "129becac-5ecb-41fe-b90a-7d567e3c6c5f": {
+      "ProjectGuid": "129becac-5ecb-41fe-b90a-7d567e3c6c5f",
+      "DisplayName": "CarsAndUsedCars",
+      "ColorIndex": 2
+    },
+    "66f11999-f2e0-4273-a811-1615662847bd": {
+      "ProjectGuid": "66f11999-f2e0-4273-a811-1615662847bd",
+      "DisplayName": "test",
+      "ColorIndex": 3
+    },
+    "62389b54-f86d-458d-9eb1-66b3e041edc3": {
+      "ProjectGuid": "62389b54-f86d-458d-9eb1-66b3e041edc3",
+      "DisplayName": "test2",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }
