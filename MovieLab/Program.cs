@@ -67,6 +67,7 @@ namespace MovieLab
                     keepgoing = false;
                 }
                 Console.Clear();
+                Console.BackgroundColor = ConsoleColor.Green;
             }
             while (keepgoing);
         }

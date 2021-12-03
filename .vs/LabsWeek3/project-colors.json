@@ -5,7 +5,12 @@
       "ProjectGuid": "6c1033c3-4523-4ccb-be15-3b640d72b01c",
       "DisplayName": "DataStructures",
       "ColorIndex": 0
+    },
+    "f43a4f26-1e17-4036-bbe1-b7f0225e1bba": {
+      "ProjectGuid": "f43a4f26-1e17-4036-bbe1-b7f0225e1bba",
+      "DisplayName": "MovieLab",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

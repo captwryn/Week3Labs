@@ -1,0 +1,16 @@
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.exe
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.deps.json
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.runtimeconfig.json
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\bin\Debug\net6.0\ref\CarsAndUsedCars.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\bin\Debug\net6.0\CarsAndUsedCars.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.GlobalUsings.g.cs
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.csproj.AssemblyReference.cache
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.AssemblyInfoInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.AssemblyInfo.cs
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.csproj.CoreCompileInputs.cache
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\ref\CarsAndUsedCars.dll
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.pdb
+C:\Users\Dans-LT\source\repos\LabsWeek3\CarsAndUsedCars\obj\Debug\net6.0\CarsAndUsedCars.genruntimeconfig.cache
